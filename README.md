@@ -22,8 +22,8 @@ The dataset contains historical weather information, including:
 - Temperature
 - Humidity
 - Pressure
-- Wind Speed
-- Other weather-related features
+- Latitude
+- Longitude
 
 ## ⚙️ Machine Learning Workflow
 1. Import the dataset
