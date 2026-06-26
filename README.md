@@ -45,18 +45,14 @@ The dataset contains historical weather information, including:
 ## 📁 Project Structure
 ```
 Temperature-Prediction/
-│── Temperature_Prediction.ipynb
+│── Temperature Prediction_Test (1).ipynb
 │── README.md
-│── requirements.txt
-│── dataset.csv
+│── Temperature Data.zip
 ```
 
 ## 🚀 How to Run
 1. Clone the repository.
-2. Install the required libraries:
-   ```
-   pip install -r requirements.txt
-   ```
+2. Install the required libraries
 3. Open the Jupyter Notebook.
 4. Run all cells to train the model and generate predictions.
 
